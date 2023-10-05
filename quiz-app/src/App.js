@@ -73,7 +73,7 @@ function App() {
         },
         {
           text: "Daniel Red Cliff",
-          correct: true,
+          correct: false,
         },
       ],
     },
